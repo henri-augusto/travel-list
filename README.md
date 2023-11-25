@@ -8,7 +8,9 @@ In the project directory, you can run:
 
 ### About
 
-This project is about to learn React and the most fundamentals uses like:
+This is a travel-list to learn a simple CRUD in React.
+
+This project is about to learn React and the most fundamental uses like:
 
 ### STATE - A POWERFULL TOOL
 
@@ -30,3 +32,11 @@ How do we chare state with other component?
 
 Using lifing state up technique or child-to-parent communication.
 This is means to polace some state in a component that is a parent of a component in question. So children can access the state via props.
+
+### BONUS
+
+We have here 3 challengs to learn about STATE and some techniques.
+
+- Accordion;
+- Flash cards;
+- Tip Calculator.
